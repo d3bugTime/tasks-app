@@ -50,7 +50,7 @@ export default function TaskApp() {
                     />
                     <button
                         type="submit"
-                        className="bg-stone-900 text-white rounded-md px-4 py-2 text-sm hover:bg-stone-700 active:scale-95 transition"
+                        className="bg-emerald-900 text-white rounded-md px-4 py-2 text-sm hover:bg-emerald-700 active:scale-95 transition"
                     >
                         Add
                     </button>
